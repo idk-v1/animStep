@@ -8,3 +8,6 @@ Example:<br>
 Fix:<br>
 001.png, 002.png, ...<br>
 099.png, 100.png, 101.png<br>
+<br>
+<br>
+I used this to speed up making a cursive drawing animation for the arcade game Defender
